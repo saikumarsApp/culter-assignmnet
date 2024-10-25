@@ -1,0 +1,61 @@
+.main-hero{
+               background-color: #bcf7f8;
+               background-size: cover;
+               min-height: 100vh;
+               padding: 20px;
+               display: flex;
+               flex-direction: column;
+               justify-content: center;
+               align-items: center; 
+             }
+             .white-card{
+               background-color: white;
+               padding: 20px;
+               display: flex;
+               flex-direction: column;
+               justify-content: center;
+               border-radius: 10px;
+             }
+.login-card{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.main-heading{
+	color: rgb(20, 40, 80);
+	font-size: 30px;
+	font-family: "Roboto";
+}
+.lable-style{
+	color: rgb(40, 50, 60);
+	font-size: 12px;
+	font-weight: bold;
+}
+.input-element{
+	padding: 4px;
+	border-radius: 4px;
+	margin-bottom: 10px;
+	border: 1px solid rgb(89, 89, 101);
+}
+.sub-button{
+	background-color: rgb(65, 196, 248);
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	border-radius: 8px;
+	color: white;
+	font-weight: bold;
+	outline: none;
+	border-width: 0px;
+	width: 100px;
+	cursor: pointer;
+
+}
+.success-form-card{
+	width: 300px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
